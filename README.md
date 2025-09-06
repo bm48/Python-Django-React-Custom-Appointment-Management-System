@@ -26,9 +26,3 @@ Here are some visuals of the Custom Appointment Management System in action:
 ![Patient Interface](images/Appointment_Scheduler6.png)
 ![System Dashboard](images/Appointment_Scheduler7.png)
 
-## Installation
-To set up the project on your local machine, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/faheemshahzad6/Custom-Appointment-Management-System.git
